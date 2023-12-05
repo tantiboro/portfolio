@@ -7,7 +7,7 @@ feature-engine==1.6.2
 folium==0.14.0
 joblib==1.1.1
 jupyter-Pandas-GUI==0.8.0
-jupyterlab==4.0.6
+#jupyterlab==4.0.6
 lottie==0.7.0
 missingno==0.5.2
 pandas-profiling==3.2.0
